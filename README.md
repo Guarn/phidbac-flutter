@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-<img src="./docs/chargement.png">
-<img src="./docs/sujets.png">
-<img src="./docs/filtres.png">
+<img width="20%" src="./docs/chargement.png">
+<img width="20%" src="./docs/sujets.png">
+<img width="20%" src="./docs/filtres.png">
 </p>
 
 # phidbac

@@ -1,0 +1,4 @@
+#Tue May 05 10:40:49 CEST 2020
+base.0=/Users/florianjung/Documents/Projets/Flutter/phidbac/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

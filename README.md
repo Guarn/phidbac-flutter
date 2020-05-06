@@ -1,27 +1,18 @@
 <p>
-<h1 align="center">Phidbac-Mobile</h1>
-<p>Versions Android et Ios de la recherche <br/> de sujets de philosophie</p>
+<h1 align="center">Phidbac-Flutter</h1>
+<p align="center"><em>Versions Android et Ios <br/>recherche de sujets de philosophie</em></p>
 </p>
 
 <p align="center">
-<img width="20%" src="./docs/chargement.png">
-<img width="20%" src="./docs/sujets.png">
-<img width="20%" src="./docs/filtres.png">
+<img width="30%" src="./docs/chargement.png">
+<img width="30%" src="./docs/sujets.png">
+<img width="30%" src="./docs/filtres.png">
 </p>
 
-# phidbac
+# Phidbac-Flutter
 
-A new Flutter project.
+Conçue pour compléter le site Phidbac.fr et aider à la recherche de sujets donnés lors des épreuves de philosophie depuis 1996.
 
-## Getting Started
+# Technos
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Développée avec Flutter, elle se base sur l'API Rest de Phidbac.fr pour récupérer une liste de sujets lors du lancement. Les opérations de recherche et de tri sont réalisées côté client.
